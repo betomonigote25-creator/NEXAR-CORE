@@ -1,2 +1,8 @@
-# NEXAR-CORE
-Núcleo del ecosistema NEXAR: arquitectura base, motor de procesos y módulos fundamentales.
+# NEXAR CORE
+Núcleo base del sistema NEXAR. Aquí inicia la arquitectura principal del proyecto.
+
+## Estado del proyecto
+Inicializando estructura base.
+
+## Objetivo
+Construir un sistema modular, escalable, inteligente y totalmente automatizado.
